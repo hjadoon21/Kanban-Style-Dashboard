@@ -71,6 +71,18 @@ No installation required.
 
 ---
 
+## Application Screenshots
+
+### Main Dashboard
+![Dashboard](figures/dashboard.png)
+- Main screen of the dashboard, as well as the task cards.
+
+### Add Task Feature
+![Task Board](figures/add_task.png)
+- Add task function, which can add new tasks onto the board
+
+---
+
 ## Notes
 
 - Built without JSX to reinforce understanding of core React concepts
