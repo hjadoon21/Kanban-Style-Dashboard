@@ -44,7 +44,7 @@ A browser-based Kanban-style task management application built using JavaScript 
  
   ---
 
-## 🧠 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - Component-based UI architecture
 - State management in React
